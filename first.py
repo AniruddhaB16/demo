@@ -1,2 +1,6 @@
-print("Aniruddha")
-print("Aditya")
+hungry=input("Are you hungry??")
+if hungry=="yes":
+    print("Eat samosa")
+else:
+    print("Study")
+ 
