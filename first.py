@@ -4,8 +4,8 @@ if hungry=="yes":
 <<<<<<< HEAD
     print("Eat Maggii")
     print("Eat Burger")
-=======
->>>>>>> parent of 7499bf2 (Maggii)
+    print("Eat Fries")
+
 else:
     print("Study")
  
